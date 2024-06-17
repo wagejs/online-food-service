@@ -2,7 +2,7 @@ import { EnFlag, Logo } from "@assets/images";
 
 function Navbar() {
   return (
-    <nav className="w-full pt-10">
+    <nav className="w-full pt-10 px-[100px]">
       <div className="flex justify-between content-center border-b border-b-dark/[.12] pb-4">
         <div className="logo">
           <img src={Logo} alt="brand-logo" width={128} height={64} />

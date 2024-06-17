@@ -19,7 +19,7 @@ const buttonSizeMapClassStyle = {
 
 const buttonVariantMapClassStyle = {
   "primary": "text-brand-dark bg-brand-primary",
-  "inverse-primary": "text-brand-primary bg-brand-dark"
+  "inverse-primary": "text-white bg-brand-dark"
 }
 
 function Button({ className, onClick, children, size, variant }: IButton) {

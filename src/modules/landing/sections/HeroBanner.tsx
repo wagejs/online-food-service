@@ -39,7 +39,7 @@ function HeroBanner() {
   ]
 
   return (
-    <section className="pt-36 pb-40 mx-auto text-center max-w-[1135px]">
+    <section className="pt-36 pb-40 mx-auto text-center max-w-[1135px] px-[100px]">
 
       <h2 className="text-brand-primary font-bold text-2xl">RISUS PRAESENT VULPUTATE.</h2>
       <div className="mt-2 mb-10">
