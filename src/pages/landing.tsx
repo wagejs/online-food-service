@@ -1,4 +1,4 @@
-import LandingScreen from "../modules/landing/screens";
+import LandingScreen from "@modules/landing/screens";
 
 function Pages() {
   return <LandingScreen/>

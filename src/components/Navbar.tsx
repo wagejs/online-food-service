@@ -1,4 +1,4 @@
-import { EnFlag, Logo } from "../assets/images";
+import { EnFlag, Logo } from "@assets/images";
 
 function Navbar() {
   return (

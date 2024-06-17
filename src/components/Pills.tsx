@@ -1,4 +1,4 @@
-import { CircleCheck } from "../assets/icons";
+import { CircleCheck } from "@assets/icons";
 
 export type PillsVariant = "white" | "primary"
 

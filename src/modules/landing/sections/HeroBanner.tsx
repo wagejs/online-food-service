@@ -1,8 +1,8 @@
-import { ArrowRight } from "../../../assets/icons";
-import { Button, Pills } from "../../../components";
-import { PillsVariant } from "../../../components/Pills";
+import { ArrowRight } from "@assets/icons";
+import { Button, Pills } from "@components";
+import { PillsVariant } from "@components/Pills";
 import { TypeAnimation } from 'react-type-animation';
-import { tailwindTheme } from '../../../utils/tailwindConfig'
+import { tailwindTheme } from '@utils/tailwindConfig'
 
 type BrandValue = {
   variant: PillsVariant
